@@ -11,7 +11,8 @@
     "thomas",
     "aeorge",
     "hayden_barnes",
-    "micha_van_eijk"
+    "micha_van_eijk",
+    "alexander_miller"
   ],
   "keywords": [
     "2fa"
@@ -346,7 +347,7 @@
     ]
   },
   "dependencies": {
-    "@raycast/api": "^1.89.0",
+    "@raycast/api": "^1.102.5",
     "@raycast/utils": "^1.18.0",
     "date-fns": "^4.1.0",
     "libphonenumber-js": "^1.11.9"
